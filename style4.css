@@ -154,8 +154,8 @@ color: bisque;
     
     background-color: brown;
     display: flex;
-    padding-left: 200px;
-    padding-right: 400px;
+    padding-left: 100px;
+    padding-right: 100px;
     padding-top: 80px;
     
     justify-content: space-between;
@@ -214,8 +214,8 @@ color: bisque;
     
     background-color: brown;
     display: flex;
-    padding-left: 200px;
-    padding-right: 400px;
+    padding-left: 100px;
+    padding-right: 100px;
     padding-bottom: 80px;
     padding-top: 60px;
     
@@ -691,5 +691,6 @@ footer {
   font-size: 14px;
   border-top: 1px solid #333;
 }
+
 
 
