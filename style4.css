@@ -154,7 +154,8 @@ color: bisque;
     
     background-color: brown;
     display: flex;
-    padding: 0px 200px;
+    padding-left:200px;
+    padding-right:200px;
     padding-top: 80px;
     
     justify-content: space-between;
@@ -185,13 +186,13 @@ color: bisque;
     border-radius: 10px;
 }
 .services-items1 .box img:hover{
-    content: url(/webdevelopmentimg1.jpg);
+    content: url(webdevelopmentimg1.jpg);
 }
 .services-items1 .box:nth-of-type(2) img:hover{
-    content: url(/wordpress2.jpg);
+    content: url(wordpress2.jpg);
 }
 .services-items1 .box:nth-of-type(3) img:hover{
-    content: url(/e-commerce2.jpg);
+    content: url(e-commerce2.jpg);
 }
 
 .services-items2 .box img{
@@ -201,19 +202,20 @@ color: bisque;
     border-radius: 10px;
 }
 .services-items2 .box img:hover{
-    content: url(/websiteredesin2.jpg);
+    content: url(websiteredesin2.jpg);
 }
 .services-items2 .box:nth-of-type(2) img:hover{
-    content: url(/frontend2.jpg);
+    content: url(frontend2.jpg);
 }
 .services-items2 .box:nth-of-type(3) img:hover{
-    content: url(/bug2.jpg);
+    content: url(bug2.jpg);
 }
 .services-items2{
     
     background-color: brown;
     display: flex;
-    padding: 0px 200px;
+    padding-left:200px;
+    padding-right:200px;
     padding-bottom: 80px;
     padding-top: 60px;
     
@@ -689,3 +691,4 @@ footer {
   font-size: 14px;
   border-top: 1px solid #333;
 }
+
